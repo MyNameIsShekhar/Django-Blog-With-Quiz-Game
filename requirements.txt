@@ -1,4 +1,4 @@
-﻿asgiref==3.2.2
+﻿asgiref
 astroid==2.3.3
 autopep8==1.4.4
 colorama==0.4.1
